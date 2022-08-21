@@ -12,3 +12,6 @@ All concurrency controls are taken care
 of.
 
 For details about working of application, follow the Astro-Ride.pdf file that is mentioned above with the code files.
+
+To download the app scan this Qr code
+![image](https://user-images.githubusercontent.com/85942526/185776868-de978490-95ee-49ea-8d47-283ac7a414d8.png)
